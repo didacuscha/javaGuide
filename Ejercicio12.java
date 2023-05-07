@@ -27,6 +27,6 @@ public static void main(String[] args){
         }    
     }
     
-    System.out.println("\nCadenas con formato apropiado: " + cadenasOk + "\n Cadenas con formato incorrecto: " + cadenasNotOk + " \nProgram finished.");
+    System.out.println("\nCadenas con formato apropiado: " + cadenasOk + "\nCadenas con formato incorrecto: " + cadenasNotOk + " \nProgram finished.");
  }
 }
